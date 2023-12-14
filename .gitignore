@@ -1,0 +1,27 @@
+# Various IDEs and Editors
+.vscode/
+.idea/
+**/*~
+
+# Mac OSX temporary files
+.DS_Store
+**/.DS_Store
+
+# dfx temporary files
+.dfx/
+canister_ids.json
+
+# generated files
+src/declarations/
+
+# frontend code
+node_modules/
+dist/
+
+# unity files
+doc
+src/farm_icrc1_frontend/assets/Build/
+src/farm_icrc1_frontend/assets/StreamingAssets/
+src/farm_icrc1_frontend/assets/TemplateData/
+
+
